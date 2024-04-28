@@ -1,0 +1,12 @@
+{
+  "name": "dircraft",
+  "version": "1.0.0",
+  "description": "Creating new components or pages with one CLI command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SerhatPolat",
+  "license": "MIT",
+  "type": "module"
+}
