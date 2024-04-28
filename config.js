@@ -4,7 +4,7 @@ const config = {
   file_extensions: {
     page: ".tsx",
     component: ".tsx",
-    story: ".stories.jsx",
+    story: ".stories.tsx",
     mockProps: ".mocks.ts",
     test: ".test.js",
   },
